@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+}
+
+#contenedor{
+    width: 1200px;
+    height: 1000px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#header{
+    height: 15%;
+    background-color: cyan;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+#nav{
+    height: 10%;
+    background-color: burlywood;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+#contenido{
+    height: 60%;
+    margin: 1em;
+}
+
+#footer{
+    height: 6%;
+    background-color: bisque;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+h1{
+    color:blue;
+}
+#section{
+    height: 100%;
+    width: 60%;
+    background-color: aquamarine;
+    margin-left: 00.5em;
+    border-radius: 1em;
+    float: left;
+}
+
+#aside{
+    height: 100%;
+    width: 33%;
+    background-color: rgb(227, 13, 227);
+    margin-right: 0.5em;
+    border-radius: 1em;
+    float: right;
+    color: blue;
+    
+}
+
+.articulo{
+    width: 95%;
+    height: 20%;
+    background-color: chartreuse;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+.iden{
+    color: white;
+}

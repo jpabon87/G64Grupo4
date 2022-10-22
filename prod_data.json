@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Pantalon",
+    "precio": 55000,
+    "marca": "Eco-Cañamo"
+  },
+  {
+    "id": "2",
+    "name": "Camiseta",
+    "precio": 22000,
+    "marca": "Algo-dones"
+  },
+  {
+    "id": "3",
+    "name": "Chaqueta",
+    "precio": 150000,
+    "marca": "Caq-tuss"
+  }  
+]
